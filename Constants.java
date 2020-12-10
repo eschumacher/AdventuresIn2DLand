@@ -54,7 +54,7 @@ public class Constants
     static Font FONT = new Font("Garamond", Font.PLAIN, 48); //new Font("BankGothic Md BT", Font.PLAIN, 48);
     
     
-    static final String PATH = "E:\\Code\\OldStuff\\sampledir\\FinalProject\\";
+    static final String PATH = "C:\\cygwin\\Git\\erik\\AdventuresIn2DLand\\";
     
     public Constants()
     {
